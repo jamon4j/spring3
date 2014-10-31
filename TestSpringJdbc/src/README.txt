@@ -1,0 +1,1 @@
+使用spring的jdbcTemplate类实现查询mysql数据库的查询query和插入update操作，并且验证了spring的事务管理功能
